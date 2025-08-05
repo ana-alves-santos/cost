@@ -19,7 +19,7 @@ A expense tracker web app built with React and Vite to practice React hooks and 
 - React (with hooks: `useState`, `useEffect`)
 - Vite (build tool)
 - Chart.js 
-- CSS custom properties for theming
+- CSS
 
 
 ## 🧰 Getting Started
