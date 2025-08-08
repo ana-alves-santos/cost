@@ -22,7 +22,7 @@ A expense tracker web app built with React and Vite to practice React hooks and 
 - CSS
 
 
-## 🧰 Getting Started
+## How to Run
 
 ```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/expense-tracker.git
